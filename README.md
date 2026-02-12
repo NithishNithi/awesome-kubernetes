@@ -563,6 +563,7 @@ Projects
 * [Kubic-Project](https://github.com/kubic-project)
 * [Reloader](https://github.com/stakater/Reloader) - Auto-load updates of ConfigMaps and Secrets into pods for Deployments, StatefulSets and DaemonSets
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
+* [SpotFargateOrchestrator](https://orchestrator.nithiverse.in/) - EKS controller that seamlessly shifts workloads between Spot and Fargate to ensure zero downtime and optimal cost
 
 ## Package Managers
 
